@@ -18,16 +18,16 @@ msgstr ""
 
 #: activity/activity.info:2
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: terminal.py:43
 msgid "Terminal Activity"
-msgstr ""
+msgstr "Terminal Activity"
 
 #: terminal.py:49
 msgid "Edit"
-msgstr ""
+msgstr "Edit"
 
 #: terminal.py:63
 msgid "Become root"
-msgstr ""
+msgstr "Become root"
